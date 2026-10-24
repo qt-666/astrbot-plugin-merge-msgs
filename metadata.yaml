@@ -1,0 +1,6 @@
+name: astrbot_plugin_merge_msgs
+display_name: 连续消息合并
+desc: 等用户把话说完再统一回复，避免一条消息回一句
+version: 1.0.0
+author: QT-666
+repo: https://github.com/QT-666/astrbot-plugin-merge-msgs
